@@ -53,4 +53,5 @@ run
 phpinfo();
             sudo rm /var/www/projectlamp/index.php (to remove file)
 
-PROJECT 1 COMPLETED SUCCESSFULLY
+PROJECT 1 COMPLETED SUCCESSFULLY.
+
